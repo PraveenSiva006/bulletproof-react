@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="docs/assets/logo.svg" width="100%" alt="Bulletproof React Logo" />
+</div>
+
 # Bulletproof React 🛡️ ⚛️
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENSE)
@@ -16,6 +21,8 @@ This repo attempts to present a way of creating React applications using some of
 The goal here is to serve as a collection of resources and best practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers write better applications.
 
 Feel free to explore the sample app codebase to get the most value out of the repo.
+
+> 🤝 **Looking for help implementing these patterns at your company?** [Get in touch](mailto:alan2207@live.com)
 
 ## What makes a React application "bulletproof"?
 
